@@ -9,3 +9,5 @@ I created this file as part of my **Marketing Analytics** bootcamp, to choose th
 # How it should be used?
 
 This tool can be used for anyone who wants to adquire a new tool, or have considered a substitute. Note that depending on the tool, other variables could be added as well.
+
+**https://docs.google.com/spreadsheets/d/1ZkypKSxqVRwgDvf_vK2TenksdrV5XwdYcY9uVXZak9s/edit?usp=sharing**
